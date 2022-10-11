@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LinuxUserMadara
+- 👋 Hi, I’m @DhongiBabaG
 - 👀 I’m interested in Javascript, HTML, CSS, Java etc.
 - 🌱 I’m currently learning all these side by side.
 - 📫 How to reach me? Join MY [Discord Server](https://discord.gg/RCYwRBYK6V) or DM me at **Lonewolf#0816** on Discord.
